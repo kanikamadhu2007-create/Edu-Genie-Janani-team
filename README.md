@@ -6,14 +6,14 @@ EduGenie is a Generative AI based learning assistant developed using Google Gemi
 
 ## Project Team
 
-1. Nivetha V
-2. Kajal R
-3. Kamalesh K
-4. Ramya Sri K
-5. Yogesh C
+1. janani S
+2. kanika S
+3. kiruba A
+4. kiruthika N
+5. jeevan kumar V
 
-**Department:** Information Technology  
-**College:** Kathir College of Arts and Science  
+**Department:** Information technology  
+**College:** shree venkateshwara College of Arts and Science  
 **Academic Year:** 2026–2027
 
 ## Project Objectives
